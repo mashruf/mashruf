@@ -21,7 +21,7 @@ I'm actively seeking a challenging QA role that allows me to learn continuously 
 
 - 📧 [mashrufrohon@gmail.com](mailto:mashrufrohon@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/mashruf-m-rohon)  
-- 💼 [View Resume](https://drive.google.com/drive/folders/11d3uyiAZngD2BWLFDLAIvZSjE9MChpnn?usp=sharing)  
+- 💼 [View Resume](https://drive.google.com/file/d/18EIQfsZb8dbnPXF4YuvDTuboHXcPUp_4/view?usp=sharing)  
 - 💻 [GitHub](https://github.com/mashruf)
 
 ---
