@@ -4,8 +4,7 @@
 📍 Based in Dhaka | 🛠 Passionate about testing, automation, and building reliable systems  
 
  I'm a detail-oriented SQA Engineer with experience in manual and automated testing. I specialize in API, performance, and test automation using Postman, JMeter, and 
- Cypress. With a Computer Science background from North South University, I bring knowledge of SDLC, Agile, and CI/CD. I’ve built and tested applications using Jira, Zephyr 
- Scale, and GitHub, and I’m passionate about continuous learning and quality-driven development.
+ Cypress. With a Computer Science and Engineering background from North South University, I bring knowledge of SDLC, Agile, and CI/CD. I’ve built and tested applications using Jira, Zephyr Scale, and GitHub, and I’m passionate about continuous learning and quality-driven development.
 
 ---
 
