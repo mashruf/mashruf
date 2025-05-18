@@ -24,7 +24,6 @@
 - 📧 [mashrufrohon@gmail.com](mailto:mashrufrohon@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/mashruf-m-rohon)  
 - 💼 [View Resume](https://drive.google.com/file/d/1SZW5cdhwvjkOJmHgs1GUeQ3TMuivQO6s/view?usp=sharing)  
-- 💻 [GitHub](https://github.com/mashruf)
 
 ---
 
