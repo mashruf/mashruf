@@ -18,6 +18,20 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### Book-Store-Web-API
+🔗 [View Repo](https://github.com/mashruf/Book-Store-Web-API)  
+ Performed RESTful API testing and request chaining using Postman, ensuring accurate data flow across endpoints and utilized Newman CLI to generate automated API test reports.
+
+---
+
+### Transaction-Performance-Test
+🔗 [View Repo](https://github.com/mashruf/Transaction-Performance-Test)  
+Performance testing scripts using JMeter to benchmark REST APIs under load, with customizable parameters and detailed HTML reports.
+
+---
+
 ## 📫 Get in Touch
 
 - 📧 [mashrufrohon@gmail.com](mailto:mashrufrohon@gmail.com)  
