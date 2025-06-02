@@ -20,6 +20,11 @@
 
 ## 🚀 Featured Projects
 
+### SwagLabs_E2E_Cypress
+🔗 [View Repo](https://github.com/mashruf/SwagLabs_E2E_Cypress)
+Performed end-to-end testing on Swag Labs using Cypress for automation and GitHub Actions for CI/CD. Covered key user flows like login, product selection, cart management, and checkout. Utilized GitHub Actions to automate test execution and generate detailed test reports for continuous quality assurance.
+
+
 ### Book-Store-Web-API
 🔗 [View Repo](https://github.com/mashruf/Book-Store-Web-API)  
  Performed RESTful API testing and request chaining using Postman, ensuring accurate data flow across endpoints and utilized Newman CLI to generate automated API test reports.
