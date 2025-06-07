@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 - **Testing Methodologies**: SDLC, STLC, Test Case Design, Agile Testing  
 - **Types of Testing**: End-to-End, API, Performance  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### SwagLabs_E2E_Cypress
 🔗 [View Repo](https://github.com/mashruf/SwagLabs_E2E_Cypress)
@@ -37,7 +37,7 @@ Performance testing scripts using JMeter to benchmark REST APIs under load, with
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - 📧 [mashrufrohon@gmail.com](mailto:mashrufrohon@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/mashruf-m-rohon)  
