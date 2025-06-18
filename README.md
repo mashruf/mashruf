@@ -20,6 +20,11 @@
 
 ## Featured Projects
 
+### AutomationExercise_E2E_Cypress
+🔗 [View Repo](https://github.com/mashruf/AutomationExercise_E2E_Cypress)
+
+Performed end-to-end testing on Automation Exercise using Cypress with a Page Object Model (POM) architecture and BDD-style Gherkin feature files. Automated critical user flows including user registration, login, product search, cart operations, checkout, and invoice download. Integrated with GitHub Actions for Continuous Integration, enabling automatic test execution on every commit and pull request. Generated detailed test reports to ensure consistent application quality and fast feedback cycles.
+
 ### SwagLabs_E2E_Cypress
 🔗 [View Repo](https://github.com/mashruf/SwagLabs_E2E_Cypress)
 
@@ -28,12 +33,14 @@ Performed end-to-end testing on [Swag Labs](https://www.saucedemo.com/) using Cy
 
 ### Book-Store-Web-API
 🔗 [View Repo](https://github.com/mashruf/Book-Store-Web-API)  
+
  Performed RESTful API testing and request chaining using Postman, ensuring accurate data flow across endpoints and utilized Newman CLI to generate automated API test reports.
 
 ---
 
 ### Transaction-Performance-Test
 🔗 [View Repo](https://github.com/mashruf/Transaction-Performance-Test)  
+
 Performance testing scripts using JMeter to benchmark REST APIs under load, with customizable parameters and detailed HTML reports.
 
 ---
