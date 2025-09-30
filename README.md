@@ -10,11 +10,35 @@
 
 ## Skills & Tools
 
-- **Testing Methodologies**: SDLC, STLC, Test Case Design, Agile Testing  
-- **Types of Testing**: End-to-End, API, Performance  
-- **Tools**: Postman, Cypress, JMeter, Jira, Zephyr Scale  
-- **Languages & Tech**: JavaScript, SQL, HTML, CSS, Bootstrap  
-- **Others**: Bug Reporting, GitHub, CI/CD Basics  
+**Testing Methodologies:**  
+![SDLC](https://img.shields.io/badge/SDLC-grey?style=flat-square)
+![STLC](https://img.shields.io/badge/STLC-grey?style=flat-square)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-grey?style=flat-square)
+![Agile Testing](https://img.shields.io/badge/Agile-grey?style=flat-square)
+
+**Types of Testing:**  
+![End-to-End](https://img.shields.io/badge/End--to--End-grey?style=flat-square)
+![API](https://img.shields.io/badge/API-grey?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance-grey?style=flat-square)
+
+**Tools:**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Zephyr Scale](https://img.shields.io/badge/Zephyr%20Scale-grey?style=flat-square)
+
+**Languages & Tech:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Others:**  
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-grey?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-grey?style=flat-square)  
 
 ---
 
