@@ -47,9 +47,9 @@
 
 ---
 
-<h3 align="center">
+<h4 align="center">
   💡 <em>"The devil is in the details."</em><br>
-</h3>
+</h4>
 
 
 
