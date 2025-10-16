@@ -47,7 +47,14 @@
 
 ---
 
-<h3 align="center">💡 Quote</h3>
-<p align="center">
-  <em>"Quality is never an accident; it is always the result of intelligent effort." – John Ruskin</em>
-</p>
+<h3 align="center">
+  💡 <em>"The devil is in the details."</em><br>
+</h3>
+
+
+
+
+
+
+
+
