@@ -17,7 +17,7 @@
 
 <h3 align="center">🧰 Languages and Tools</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,cypress,postman,html,css,bootstrap,git,githubactions,jenkins" />
+  <img src="https://skillicons.dev/icons?i=js,cypress,postman,gherkin,html,css,bootstrap,git,githubactions,jenkins" />
 </p>
 
 ---
